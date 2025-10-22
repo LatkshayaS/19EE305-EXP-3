@@ -41,20 +41,20 @@ To control the status of the given lamp by using two–way switches.
 ## DIRECT CONNECTION:
 ### CIRCUIT DIAGRAM: 
 
-![]()
+![](DC.jpeg)
 
 ### TABULATION 1:
 
-![]()
+![](DT.jpeg)
 
 ## CROSS CONNECTION:
 ### CIRCUIT DIAGRAM:
 
-![]()
+![](CC.jpeg)
 
 ### TABULATION 2:
 
-![]()
+![](CT.jpeg)
 
 ## RESULT:
 Thus the staircase wiring is connected and tested.
